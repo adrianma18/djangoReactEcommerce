@@ -2,7 +2,7 @@ const products = [
     {
         '_id': '1',
         'name': 'Neon 1',
-        'image': 'images/neon1.jpg',
+        'image': '/images/neon1.jpg',
         'description': 'Neon Sign 1',
         'brand': 'Neo',
         'category': 'Category x',
