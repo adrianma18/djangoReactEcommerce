@@ -1,0 +1,26 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Entorno virtual
+.env
+env/
+
+# Archivos de caché
+*.sqlite3
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+
+# IDE / Editor
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Otros
+.DS_Store
+Thumbs.db
