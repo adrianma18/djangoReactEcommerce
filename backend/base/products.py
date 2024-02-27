@@ -14,7 +14,7 @@ products = [
     {
         '_id': '2',
         'name': 'Neon 2',
-        'image': 'images/neon2.jpg',
+        'image': '/images/neon2.jpg',
         'description': 'Neon Sign 2',
         'brand': 'Neo',
         'category': 'Category z',
@@ -26,7 +26,7 @@ products = [
     {
         '_id': '3',
         'name': 'Neon 3',
-        'image': 'images/neon3.jpg',
+        'image': '/images/neon3.jpg',
         'description': 'Neon Sign 3',
         'brand': 'Neo',
         'category': 'Category x',
@@ -38,7 +38,7 @@ products = [
     {
         '_id': '4',
         'name': 'Neon 4',
-        'image': 'images/neon4.jpg',
+        'image': '/images/neon4.jpg',
         'description': 'Neon Sign 4',
         'brand': 'Neo',
         'category': 'Category z',
@@ -50,7 +50,7 @@ products = [
     {
         '_id': '5',
         'name': 'Neon 5',
-        'image': 'images/neon5.jpg',
+        'image': '/images/neon5.jpg',
         'description': 'Neon Sign 5',
         'brand': 'Neo',
         'category': 'Category x',
@@ -62,7 +62,7 @@ products = [
     {
         '_id': '6',
         'name': 'Neon 6',
-        'image': 'images/neon6.jpg',
+        'image': '/images/neon6.jpg',
         'description': 'Neon Sign 6',
         'brand': 'Neo',
         'category': 'Category z',
